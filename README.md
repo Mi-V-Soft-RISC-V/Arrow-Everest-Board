@@ -1,6 +1,6 @@
 ## Arrow Everest Board RISC-V Designs
 
-This repository contains Libero projects for the following soft core RISC-V processor:
+This repository contains Libero projects for the following soft core RISC-V processors:
 * MIV_RV32 (**M**|**C**|**F**)
 
 FlashPro Express projects containing pre-generated programming files are also available for each of the designs.
